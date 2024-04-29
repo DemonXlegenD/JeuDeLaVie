@@ -23,6 +23,4 @@ Le Jeu de la Vie est un automate cellulaire, un jeu de zéro joueur inventé par
 
 1. Clonez ce dépôt sur votre machine locale.
 2. Assurez-vous d'avoir installé la librairie SDL sur votre système. Vous pouvez télécharger SDL depuis [le site officiel](https://www.libsdl.org/download-2.0.php) ou l'installer via un gestionnaire de paquets.
-3. Compilez le programme en exécutant la commande suivante dans votre terminal :
-   ```bash
-   gcc -o jeu_de_la_vie jeu_de_la_vie.c -lSDL2
+3. Compilez le programme en l'exécutant 
